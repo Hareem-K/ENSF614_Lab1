@@ -1,5 +1,10 @@
 // exBmain.cpp
-// Lab 1 - Exercise B
+/*
+* File Name: exBmain.cpp
+* Assignment: Lab 1 Exercise B
+* Completed by: Malyeka & Hareem
+* Submission Date: Sept 18, 2026
+*/
 #include <assert.h>
 #include <iostream>
 #include "dictionaryList.h"
